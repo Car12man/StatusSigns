@@ -8,8 +8,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class StatusSigns extends JavaPlugin
   implements Listener
 {
-  private final String line1 = "§7[§cSERVER§7]";
-
   public void onDisable()
   {
   }
